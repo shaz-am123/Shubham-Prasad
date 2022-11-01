@@ -2,26 +2,26 @@
 
 <h2> About me </h2>
 
-I am 3rd year undergraduate from <a href="https://jssstuniv.in/">JSS Science and Technology University</a>,pursuing Information Science and Engineering.
+I am 4th year undergraduate from <a href="https://jssstuniv.in/">JSS Science and Technology University</a>,pursuing Information Science and Engineering.
 Currently I am exploring the world of web development, problem solving and competitive coding.
 
 <br>
 <br>
 
 <a href="https://www.instagram.com/shaz_am123/">
-  <img align="left" alt="Shomik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Shubham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shazam123/">
-  <img align="left" alt="Shomik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/shubham_prasad12">
   <img align="left" alt="Shubham | Hackerrank" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>
 </a>
 <a href="https://www.codechef.com/users/shaz_am">
-  <img align="left" alt="Shomik | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="Shubham | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/shubhamprasad10101">
-  <img align="left" alt="Shomik | Gfg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+  <img align="left" alt="Shubham | Gfg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
 </a>
 <a href="mailto:shubham.prasad10101@gmail.com">
   <img align="left" alt="Shubham | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />

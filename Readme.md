@@ -2,7 +2,7 @@
 
 <h2> About me </h2>
 
-I am 4th year undergraduate from <a href="https://jssstuniv.in/">JSS Science and Technology University</a>,pursuing Information Science and Engineering.
+I am B.E Information Science and Engineering graduate from <a href="https://jssstuniv.in/">JSS Science and Technology University</a>.
 Currently I am exploring the world of web development, problem solving and competitive coding.
 
 <br>

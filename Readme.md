@@ -2,7 +2,7 @@
 
 <h2> About me </h2>
 
-I am B.E Information Science and Engineering graduate from <a href="https://jssstuniv.in/">JSS Science and Technology University</a>.
+I am a B.E Information Science and Engineering graduate from <a href="https://jssstuniv.in/">JSS Science and Technology University</a>.
 Currently I am exploring the world of web development, problem solving and competitive coding.
 
 <br>
@@ -47,7 +47,7 @@ Currently I am exploring the world of web development, problem solving and compe
 <br>
 <br>
 
-- 🔭 Executive member of CSI, SJCE.
+- 🔭 Former Executive member of CSI, SJCE.
 - 🌱 Problem Solver and competitive coding enthusiast
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 Intermediate knowledge in Data Structure and Algorithms.
